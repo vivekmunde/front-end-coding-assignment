@@ -1,2 +1,3 @@
-# front-end-coding-assignment
-Front End Coding Assignment
+# FrontEnd Coding Assignment
+
+These assignments can be used to judge the candidates during the interview process.
